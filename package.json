@@ -1,0 +1,22 @@
+{
+  "name": "using_pub-sub",
+  "version": "1.0.0",
+  "description": "Usando Pub/Sub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janetquispeu/using_pub-sub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janetquispeu/using_pub-sub/issues"
+  },
+  "homepage": "https://github.com/Janetquispeu/using_pub-sub#readme",
+  "dependencies": {
+    "@google-cloud/pubsub": "1.6.0"
+  }
+}
